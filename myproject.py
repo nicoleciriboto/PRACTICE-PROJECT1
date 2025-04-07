@@ -72,4 +72,7 @@ print(f"Hello {name}")
 
 name = "Nicole"
 age = 21
+
+if age < 50:
+    print("i am only a girl")
 print(f"Hello {name}, you are {age} years old")
