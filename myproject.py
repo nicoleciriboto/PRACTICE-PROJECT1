@@ -70,5 +70,6 @@ while name=="":
     name = input("Enter your name: ")
 print(f"Hello {name}")
 
-
-
+name = "Nicole"
+age = 21
+print(f"Hello {name}, you are {age} years old")
